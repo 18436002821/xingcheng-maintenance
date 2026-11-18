@@ -23,3 +23,5 @@
 }
 @media(max-width:360px){.header-right .avatar{display:none}.heading-row{flex-wrap:wrap}.heading-row .primary{margin-top:4px}.metric{padding:14px 9px}.metric>span{font-size:11px}.metric small{font-size:9px}.order-bottom{flex-wrap:wrap}.source{display:none}.project-card p span{float:none;display:block}}
 @media(max-width:760px){.welcome h2 br{display:block}.welcome h2{max-width:none}.welcome{min-height:145px}}
+
+.order-create{width:700px}.drawer-content>textarea{width:100%;resize:vertical}.s未开始{background:#eaf1ff;color:#326bd1}.workorder-table{background:white;border:1px solid var(--border);border-radius:12px}.workorder-table td{max-width:260px;white-space:normal;min-width:90px;line-height:1.7}.workorder-table th{white-space:nowrap}.task-link{text-align:left;min-width:180px;color:#a45c00;line-height:1.7}.supervisor-cards{display:none}input[readonly]{background:#faf5ed;color:#887053}@media(max-width:760px){.workorder-table{display:none}.supervisor-cards{display:grid}.order-create{width:100%}}
